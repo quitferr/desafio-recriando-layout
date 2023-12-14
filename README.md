@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+A Flutuar.com é uma página do projeto do desafio da Rocketseat.
 
 - [Acesse o projeto finalizado, online](https://quitferr.github.io/desafio-recriando-layout)
 
